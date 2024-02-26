@@ -1,6 +1,6 @@
 {
   "name": "fn-debounce",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple debounce function for JavaScript",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/thamdavies/debounce-function/issues"
   },
-  "homepage": "https://github.com/thamdavies/debounce-function#readme"
+  "homepage": "https://github.com/thamdavies/debounce-function#readme",
+  "dependencies": {
+    "@jslint-org/jslint": "^2023.10.24"
+  }
 }
