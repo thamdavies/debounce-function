@@ -3,7 +3,7 @@ This package provides a `debounce` function to help you execute a function after
 Avoids executing the function too many times when the user interacts continuously (e.g., scrolling, typing)
 # Usage
 ```js
-import debounce from 'df';
+import debounce from 'fn-debounce';
 
 const myFunction = () => {
   // ...
