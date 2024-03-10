@@ -1,5 +1,5 @@
 # Debounce Function
-This package provides a `debounce` function to help you execute a function after a certain wait time, since the last time it was called.
+A lightweight [module](https://www.npmjs.com/package/fn-debounce) module to help you execute a function after a certain wait time, since the last time it was called.
 Avoids executing the function too many times when the user interacts continuously (e.g., scrolling, typing)
 # Usage
 ```js
